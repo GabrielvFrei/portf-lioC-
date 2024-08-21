@@ -1,0 +1,16 @@
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.Form1.resources
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.csproj.GenerateResource.cache
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\aula3\aula3\bin\Debug\net8.0-windows\aula3.exe
+C:\Users\userlocal\source\repos\aula3\aula3\bin\Debug\net8.0-windows\aula3.deps.json
+C:\Users\userlocal\source\repos\aula3\aula3\bin\Debug\net8.0-windows\aula3.runtimeconfig.json
+C:\Users\userlocal\source\repos\aula3\aula3\bin\Debug\net8.0-windows\aula3.dll
+C:\Users\userlocal\source\repos\aula3\aula3\bin\Debug\net8.0-windows\aula3.pdb
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.dll
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\refint\aula3.dll
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.pdb
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\aula3.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\aula3\aula3\obj\Debug\net8.0-windows\ref\aula3.dll

@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\aula1console\aula1console\bin\Debug\net8.0\aula1console.exe
+C:\Users\userlocal\source\repos\aula1console\aula1console\bin\Debug\net8.0\aula1console.deps.json
+C:\Users\userlocal\source\repos\aula1console\aula1console\bin\Debug\net8.0\aula1console.runtimeconfig.json
+C:\Users\userlocal\source\repos\aula1console\aula1console\bin\Debug\net8.0\aula1console.dll
+C:\Users\userlocal\source\repos\aula1console\aula1console\bin\Debug\net8.0\aula1console.pdb
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.dll
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\refint\aula1console.dll
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.pdb
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\aula1console.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\aula1console\aula1console\obj\Debug\net8.0\ref\aula1console.dll
