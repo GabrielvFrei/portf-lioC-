@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\bin\Debug\net8.0\vetorAula.exe
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\bin\Debug\net8.0\vetorAula.deps.json
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\bin\Debug\net8.0\vetorAula.runtimeconfig.json
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\bin\Debug\net8.0\vetorAula.dll
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\bin\Debug\net8.0\vetorAula.pdb
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.dll
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\refint\vetorAula.dll
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.pdb
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\vetorAula.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\vetorAula\vetorAula\obj\Debug\net8.0\ref\vetorAula.dll
