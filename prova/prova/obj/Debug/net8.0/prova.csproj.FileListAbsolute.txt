@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\prova\prova\bin\Debug\net8.0\prova.exe
+C:\Users\userlocal\source\repos\prova\prova\bin\Debug\net8.0\prova.deps.json
+C:\Users\userlocal\source\repos\prova\prova\bin\Debug\net8.0\prova.runtimeconfig.json
+C:\Users\userlocal\source\repos\prova\prova\bin\Debug\net8.0\prova.dll
+C:\Users\userlocal\source\repos\prova\prova\bin\Debug\net8.0\prova.pdb
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.dll
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\refint\prova.dll
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.pdb
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\prova.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\prova\prova\obj\Debug\net8.0\ref\prova.dll
