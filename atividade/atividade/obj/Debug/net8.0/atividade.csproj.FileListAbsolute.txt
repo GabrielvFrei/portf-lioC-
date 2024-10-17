@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\atividade\atividade\bin\Debug\net8.0\atividade.exe
+C:\Users\userlocal\source\repos\atividade\atividade\bin\Debug\net8.0\atividade.deps.json
+C:\Users\userlocal\source\repos\atividade\atividade\bin\Debug\net8.0\atividade.runtimeconfig.json
+C:\Users\userlocal\source\repos\atividade\atividade\bin\Debug\net8.0\atividade.dll
+C:\Users\userlocal\source\repos\atividade\atividade\bin\Debug\net8.0\atividade.pdb
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.dll
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\refint\atividade.dll
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.pdb
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\atividade.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\atividade\atividade\obj\Debug\net8.0\ref\atividade.dll
