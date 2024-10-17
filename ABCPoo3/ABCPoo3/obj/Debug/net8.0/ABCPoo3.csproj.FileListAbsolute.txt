@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\bin\Debug\net8.0\ABCPoo3.exe
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\bin\Debug\net8.0\ABCPoo3.deps.json
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\bin\Debug\net8.0\ABCPoo3.runtimeconfig.json
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\bin\Debug\net8.0\ABCPoo3.dll
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\bin\Debug\net8.0\ABCPoo3.pdb
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.dll
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\refint\ABCPoo3.dll
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.pdb
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ABCPoo3.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\ABCPoo3\ABCPoo3\obj\Debug\net8.0\ref\ABCPoo3.dll

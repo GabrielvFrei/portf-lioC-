@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ABCPoo3/1.0.0": {
+        "runtime": {
+          "ABCPoo3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABCPoo3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
