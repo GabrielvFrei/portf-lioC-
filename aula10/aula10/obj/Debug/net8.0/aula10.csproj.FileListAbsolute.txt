@@ -1,0 +1,14 @@
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.AssemblyInfoInputs.cache
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.AssemblyInfo.cs
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.csproj.CoreCompileInputs.cache
+C:\Users\userlocal\source\repos\aula10\aula10\bin\Debug\net8.0\aula10.exe
+C:\Users\userlocal\source\repos\aula10\aula10\bin\Debug\net8.0\aula10.deps.json
+C:\Users\userlocal\source\repos\aula10\aula10\bin\Debug\net8.0\aula10.runtimeconfig.json
+C:\Users\userlocal\source\repos\aula10\aula10\bin\Debug\net8.0\aula10.dll
+C:\Users\userlocal\source\repos\aula10\aula10\bin\Debug\net8.0\aula10.pdb
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.dll
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\refint\aula10.dll
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.pdb
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\aula10.genruntimeconfig.cache
+C:\Users\userlocal\source\repos\aula10\aula10\obj\Debug\net8.0\ref\aula10.dll
