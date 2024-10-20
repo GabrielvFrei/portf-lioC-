@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\bin\Debug\net8.0\atividadeVinho2.exe
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\bin\Debug\net8.0\atividadeVinho2.deps.json
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\bin\Debug\net8.0\atividadeVinho2.runtimeconfig.json
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\bin\Debug\net8.0\atividadeVinho2.dll
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\bin\Debug\net8.0\atividadeVinho2.pdb
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.dll
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\refint\atividadeVinho2.dll
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.pdb
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\atividadeVinho2.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\atividadeVinho2\atividadeVinho2\obj\Debug\net8.0\ref\atividadeVinho2.dll
