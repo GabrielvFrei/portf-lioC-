@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\bin\Debug\net8.0\AtividadeOO.exe
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\bin\Debug\net8.0\AtividadeOO.deps.json
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\bin\Debug\net8.0\AtividadeOO.runtimeconfig.json
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\bin\Debug\net8.0\AtividadeOO.dll
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\bin\Debug\net8.0\AtividadeOO.pdb
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.dll
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\refint\AtividadeOO.dll
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.pdb
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\AtividadeOO.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AtividadeOO\AtividadeOO\obj\Debug\net8.0\ref\AtividadeOO.dll
